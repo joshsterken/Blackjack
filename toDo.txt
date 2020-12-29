@@ -3,3 +3,5 @@ to do
 1. when player has: 4, 3, K
     and dealer has : 2, A, Q, J
     game says dealer has current value of 23 and declares dealer winner
+    ****FIXED*****
+    however game logic is extremely convoluted, at least it seems that way to me
